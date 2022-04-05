@@ -1,5 +1,5 @@
 PLUGIN_NAME = javascript-example-plugin
-PLUGIN_PATH = easydb-javascript-example-plugin
+PLUGIN_PATH = easydb-example-javascript-plugin
 
 # INSTALL FILES NOT TESTED YET.
 

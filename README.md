@@ -1,2 +1,2 @@
-# easydb-javascript-example-plugin
+# easydb-example-javascript-plugin
 Plugin examples with javascript
