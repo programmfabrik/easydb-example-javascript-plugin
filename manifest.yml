@@ -1,0 +1,11 @@
+plugin:
+  name: javascript-example-plugin
+  version: 1.0
+  displayname:
+    de-DE: Javascript Example Plugin
+    en-US: Javascript Example Plugin
+  info:
+    de-DE: "Das Javascript  Beispiel Plugin für **easydb**."
+    en-US: "A Javascript example plugin for **easydb**."
+  webfrontend:
+    url: javascript-example-plugin.js
