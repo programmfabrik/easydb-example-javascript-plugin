@@ -1,0 +1,12 @@
+\#*\#
+*/l10n/*json
+*.swp
+*.pyc
+build
+build-stamp-*
+build-info.json
+*~
+.idea
+.\#*
+.vscode/
+node_modules
